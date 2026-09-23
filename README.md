@@ -1,25 +1,30 @@
-Java Chatbot 🤖
-This is a simple console-based chatbot made using Java.
+# Java Chatbot
 
-Features
-- Takes user's name
-- Responds to Hello / Hi
-- Answers "How are you?"
-- Gives basic information about Java
-- Tells a programming joke
-- Exits when the user types "bye" or "exit"
-Technologies Used
-- Java
-- Scanner
-- if-else
-- while loop
-- String handling
-How to Run
-Compile:
-javac Main.java
-Run:
-java Main
-Example
+A simple Java console application that simulates an interactive conversation with a bot named JavaBot, greeting the user by name and responding to various text commands.
+
+## Features
+
+* Greets the user personally by taking their name as input.
+* Handles basic greetings, questions about Java, and tells a programmer joke.
+* Runs continuously in a terminal loop until an exit command is given.
+
+## How to Run
+
+1. Make sure you have Java Development Kit (JDK) installed.
+2. Compile the program:
+
+   ```bash
+   javac Main.java
+   ```
+
+3. Run the program:
+
+   ```bash
+   java Main
+   ```
+
+## Example:
+
 Bot: What is your name? Shubham
 
 Bot: Nice to meet you, Shubham!
@@ -32,6 +37,6 @@ Shubham: bye
 
 Bot: Goodbye Shubham! Have a great day.
 
-Author
+# Author:
 
 Shubham Kumar Jha
