@@ -23,10 +23,15 @@ A simple Java console application that simulates an interactive conversation wit
 ## Example:
 
 Bot: What is your name? Shubham
+
 Bot: Nice to meet you, Shubham!
+
 Shubham: hello
+
 Bot: Hello Shubham! How are you?
+
 Shubham: bye
+
 Bot: Goodbye Shubham! Have a great day.
 
 ### Author:
