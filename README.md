@@ -12,13 +12,10 @@ A simple Java console application that simulates an interactive conversation wit
 
 1. Make sure you have Java Development Kit (JDK) installed.
 2. Compile the program:
-
    ```bash
    javac Main.java
    ```
-
 3. Run the program:
-
    ```bash
    java Main
    ```
@@ -26,15 +23,10 @@ A simple Java console application that simulates an interactive conversation wit
 ## Example:
 
 Bot: What is your name? Shubham
-
 Bot: Nice to meet you, Shubham!
-
 Shubham: hello
-
 Bot: Hello Shubham! How are you?
-
 Shubham: bye
-
 Bot: Goodbye Shubham! Have a great day.
 
 ### Author:
